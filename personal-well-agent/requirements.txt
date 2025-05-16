@@ -1,0 +1,10 @@
+crewai
+langchain
+langchain-openai
+openai
+schedule
+notify-py
+twilio
+python-dotenv
+requests
+tk
